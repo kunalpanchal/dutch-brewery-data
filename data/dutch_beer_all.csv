@@ -1,0 +1,6 @@
+name,slug,city,province,beers_count,website,kvk_number,kvk_status,dutch_beer_url,folder,notes
+Brouwerij De Molen,brouwerij-de-molen,Bodegraven,Zuid-Holland,370,https://brouwerijdemolen.nl,28086569,Closed 2025,https://www.dutch.beer/en/directory/breweries/brouwerij-de-molen,data/breweries/brouwerij-de-molen,KVK active entity but operations closed per Wikipedia 2025; pages scraped
+Kompaan,kompaan,Den Haag,Zuid-Holland,188,https://kompaanbier.nl,78198208,Active,https://www.dutch.beer/en/directory/breweries/kompaan,data/breweries/kompaan,Dutch Craft Beer Company B.V.; active
+Two Chefs Brewing,two-chefs-brewing,Amsterdam,Noord-Holland,124,https://twochefsbrewing.com,65022831,Active,https://www.dutch.beer/en/directory/breweries/two-chefs-brewing,data/breweries/two-chefs-brewing,Two Chefs Brewery B.V.; active independent
+Jopen,jopen,Haarlem,Noord-Holland,118,https://www.jopenbier.nl,34098342,Active,https://www.dutch.beer/en/directory/breweries/jopen,data/breweries/jopen,Jopen B.V.; active
+Baxbier,baxbier,Groningen,Groningen,108,https://www.baxbier.com,64974243,Active,https://www.dutch.beer/en/directory/breweries/baxbier,data/breweries/baxbier,Bax Bier Brouwerij B.V.; active, relocating

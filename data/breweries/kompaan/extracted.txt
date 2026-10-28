@@ -1,0 +1,5 @@
+KVK: 78198208
+Status: Active
+Website: https://kompaanbier.nl
+
+Homepage extract available in local HTML files.
